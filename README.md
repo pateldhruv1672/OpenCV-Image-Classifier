@@ -1,4 +1,3 @@
-# OpenCV-Image-Classifier
-HAAR Cascasde Classifier 
-Object Dectection using OpenCV .
-here object is to detect glass
+# COMPUTER-VISION- HAAR CASCADE CLASSIFIER
+Haar Cascade classifier for object detection
+For reference use : https://pythonprogramming.net/haar-cascade-object-detection-python-opencv-tutorial/
